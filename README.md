@@ -33,7 +33,7 @@
 
 5. ***[Deploy on Koyeb](https://secktorbot.onrender.com/koyeb)***
 
-6.  ***[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-jcqTK?referralCode=XSEYYB)***
+6.  ***[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/tod7aL?referralCode=N5go1y)***
 7. ***[Deploy on MOGENIOUS](https://github.com/GasComIT/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
   
 8. ***Deploy in [Linux](https://github.com/GasComIT/Secktor-Deploy#deploy-in-any-shell-including-termux)***
@@ -45,7 +45,7 @@
 
 12. SUPPORT GROUP: <a href="https://chat.whatsapp.com/LggW0xFd9095WPyknl791f"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star �e repo if you like Secktor.
+- Star â­e repo if you like Secktor.
 ### Thanks To
 
 - [Yusuf Usta](https://github.com/yusufusta) for Ideas
