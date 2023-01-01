@@ -23,22 +23,22 @@
 
   <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
  
-- Install [External Plugins](https://github.com/GasComIT/Secktor-Plugins)
+- Install [External Plugins](https://github.com/codezone2/Secktor-Plugins)
 ## Deployment Methods
 ---
 1. ***Get [SESSION-ID](https://secktorbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/GasComIT/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
-3.  ***Click [FORK](https://github.com/GasComIT/Secktor-Md/fork)***
+2.  ***Get a Mongodb uri from [Mongodb](https://github.com/codezone2/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
+3.  ***Click [FORK](https://github.com/codezone2/Secktor/fork)***
 4.  ***Deploy on [Heroku](https://secktorbot.onrender.com/heroku)***
 
 5. ***[Deploy on Koyeb](https://secktorbot.onrender.com/koyeb)***
 
-6.  ***[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6_1RrS?referralCode=N5go1y))***
-7. ***[Deploy on MOGENIOUS](https://github.com/GasComIT/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
+6.  ***[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6_1RrS?referralCode=N5go1y)***
+7. ***[Deploy on MOGENIOUS](https://github.com/codezone2/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
   
-8. ***Deploy in [Linux](https://github.com/GasComIT/Secktor-Deploy#deploy-in-any-shell-including-termux)***
+8. ***Deploy in [Linux](https://github.com/codezone2/Secktor-Deploy#deploy-in-any-shell-including-termux)***
 
-9. If you get error in doing above try, [Deploy on VPS or PC.](https://github.com/GasComIT/Secktor-Md/blob/main/deploy-on-vps.md)
+9. If you get error in doing above try, [Deploy on VPS or PC.](https://github.com/codezone2/Secktor-Md/blob/main/deploy-on-vps.md)
 ---
 10. More info about [Secktor](https://secktorbot.onrender.com/).
 11. Deploy tutorial [Youtube Video](https://secktorbot.onrender.com/youtube).
